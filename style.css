@@ -1,2 +1,16 @@
+.container {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+.image {
+    flex: 1; 
+    max-width: 100%; 
+}
+.text {
+    flex: 2; 
+}
 
 
